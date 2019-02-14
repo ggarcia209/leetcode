@@ -1,3 +1,6 @@
+""" Write function to determine, given two strings, the smallest number of characters that 
+must be deleted from both strings so that string1 == string2 """
+
 def del_ops3(str1, str2):
 
     # find all common letters in both strings
