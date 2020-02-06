@@ -89,28 +89,3 @@ func main() {
 //   j += 0 (prime number)
 // i == 13(1)
 // j = 0 copies (no copies needed for prime number)
-
-// 3 / 1 == 3
-// total == 3
-
-// 6 / 2 == 3
-//  i
-// 3 / 1 == 3
-// total == 4 (1+1+1+3)
-
-// 9 / 1 == 9
-// 9 / 2 == n/a
-// 9 / 3 == 3
-// 3 / 1 == 3
-// total == 5 (1+1+1+3+3)
-
-// 15 / 3 = 5
-// 5 / 5 = 1
-// total == 7 (1+1+1+1+1+5+5)
-
-// 7 / 7 = 7
-// total == 7 (1*7)
-
-// init d := 2
-// divide n / d
-// if n % d != 0
